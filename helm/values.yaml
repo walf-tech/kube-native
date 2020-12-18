@@ -1,5 +1,5 @@
 DTR:
-  FQDN: <image registry public DNS>
+  FQDN: ec2-52-59-195-218.eu-central-1.compute.amazonaws.com
   port: 4443
 
 DB:
